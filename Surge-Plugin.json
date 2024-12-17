@@ -1,0 +1,2151 @@
+{
+  "version": "1",
+  "time": "2022-04-10 01:26:49",
+  "name": "「Surge」魔盒",
+  "newtitle": "🆕更新提醒\n新版已发布，请点击“好”免费获取新版本继续使用！",
+  "newdesc": "【更新说明】\nSurge 魔盒 - 更新通知\n🌟 新版本上线\n我们已发布 Surge 魔盒 v2.1.0，此版本包含以下改进和修复：\n新增功能：\nURL格式转换：支持更多的自定义 URL 格式，提升规则匹配的灵活性。\n性能优化：改进配置文件加载速度，减少延迟。\n\n修复内容：\n\n修复了在特定网络环境下连接不稳定的问题。\n解决了与部分代理设置不兼容的bug。\n\n🔧 已知问题：\n\n在某些低延迟网络下，DNS解析速度可能受影响，敬请留意。\n💬 如有问题，请联系客服支持。",
+  "newweb": "https://www.icloud.com/",
+  "menu": "「Surge」魔盒 - 插件",
+  "list": [
+    "⭐️ BoxJs.official.sgmodule",
+    "⭐️ Script Hub.official.sgmodule",
+    "⭐️ Sub-Store.official.sgmodule",
+    "🍟 Apple News 解锁.official.sgmodule",
+    "🍟 Apple TestFlight.official.sgmodule",
+    "🍟 Apple TV 增强.official.sgmodule",
+    "🍟 Apple 地图优化.official.sgmodule",
+    "🍟 Apple 天气增强.official.sgmodule",
+    "🍟 Apple 定位修改.official.sgmodule",
+    "🍟 BiliADBlock.official.sgmodule",
+    "🍟 BiliEnhanced.official.sgmodule",
+    "🍟 BiliGlobal.official.sgmodule",
+    "🍟 BiliRedirect.official.sgmodule",
+    "🍟 DNS 分流.official.sgmodule",
+    "🍟 DualSubsNetflix.official.sgmodule",
+    "🍟 DualSubsSpotify.official.sgmodule",
+    "🍟 DualSubsUniversal.official.sgmodule",
+    "🍟 DualSubsYouTube.official.sgmodule",
+    "🍟 通用模块.official.sgmodule",
+    "1.1.1.1配置管理.official.sgmodule",
+    "Bilibili Helper.official.sgmodule",
+    "FlushDNS.official.sgmodule",
+    "Follow每日签到.sgmodule",
+    "GPT 可用检测-无 WARP.official.sgmodule",
+    "GPT 可用检测.official.sgmodule",
+    "Keep 去广告.official.sgmodule",
+    "Reddit 去广告.sgmodule",
+    "Spotify Plus.official.sgmodule",
+    "Surge 启动时长.official.sgmodule",
+    "VPS 流量信息.official.sgmodule",
+    "Youtube (Music) Enhance.official.sgmodule",
+    "Youtube 去广告 (不去贴片).official.sgmodule",
+    "YouTube去广告[Maasea].official.sgmodule",
+    "中国联通去广告.sgmodule",
+    "催眠大师去广告.sgmodule",
+    "哔哩哔哩去广告.official.sgmodule",
+    "哔哩漫画抢券.official.sgmodule",
+    "哔哩漫画签到.official.sgmodule",
+    "实时油价面板.official.sgmodule",
+    "将推特用户转换成RSS订阅.official.sgmodule",
+    "小爱音箱去广告.sgmodule",
+    "巴哈姆特签到.official.sgmodule",
+    "广告联盟.official.sgmodule",
+    "微信专项优化.official.sgmodule",
+    "微信阅读精简.official.sgmodule",
+    "快看漫画签到.official.sgmodule",
+    "拦截HTTPDNS.official.sgmodule",
+    "携程旅行签到.official.sgmodule",
+    "新手友好の去广告集合.official.sgmodule",
+    "智慧苏州去广告.sgmodule",
+    "机场流量信息面板.official.sgmodule",
+    "流媒体解锁检测 Lite.official.sgmodule",
+    "流媒体解锁检测.official.sgmodule",
+    "流量统计.official.sgmodule",
+    "爱奇艺会员签到.official.sgmodule",
+    "瑞幸咖啡去广告.sgmodule",
+    "百度贴吧签到.official.sgmodule",
+    "粉象生活去广告.sgmodule",
+    "网易云音乐去广告.official.sgmodule",
+    "网络信息 X.official.sgmodule",
+    "网络连通性测试.official.sgmodule",
+    "联通余量.official.sgmodule",
+    "腾讯新闻去广告.official.sgmodule",
+    "节假日信息.official.sgmodule",
+    "节点测速.official.sgmodule",
+    "贴吧去广告.official.sgmodule",
+    "起点中文去广告.official.sgmodule",
+    "阿里 DNS.official.sgmodule",
+    "隐藏状态栏 VPN 图标.official.sgmodule",
+    "1.1.1.1配置管理.beta.sgmodule",
+    "12306去广告.beta.sgmodule",
+    "123云盘去广告.beta.sgmodule",
+    "360摄像机去广告.beta.sgmodule",
+    "360智慧生活去广告.beta.sgmodule",
+    "555电影去广告.beta.sgmodule",
+    "Fileball网盘挂载.beta.sgmodule",
+    "Google重定向.beta.sgmodule",
+    "IT之家去广告.beta.sgmodule",
+    "Keep去广告.beta.sgmodule",
+    "KOOK去广告.beta.sgmodule",
+    "QQ音乐去广告.beta.sgmodule",
+    "Reddit去广告.beta.sgmodule",
+    "Soul去广告.beta.sgmodule",
+    "Spotify去广告.beta.sgmodule",
+    "Spotify歌词翻译.beta.sgmodule",
+    "TikTok多地区解锁.beta.sgmodule",
+    "TubeMax去广告.beta.sgmodule",
+    "Uki去广告.beta.sgmodule",
+    "VVebo时间线修复.beta.sgmodule",
+    "WPS每日签到.beta.sgmodule",
+    "YouTube翻译.beta.sgmodule",
+    "YY去广告.beta.sgmodule",
+    "一刻相册去广告.beta.sgmodule",
+    "七猫小说去广告.beta.sgmodule",
+    "下厨房去广告.beta.sgmodule",
+    "中华万年历去广告.beta.sgmodule",
+    "中国人保去广告.beta.sgmodule",
+    "中国移动云盘去广告.beta.sgmodule",
+    "丰巢去广告.beta.sgmodule",
+    "乐播投屏去广告.beta.sgmodule",
+    "书旗小说去广告.beta.sgmodule",
+    "书香门第每日签到.beta.sgmodule",
+    "云闪付去广告.beta.sgmodule",
+    "京东去广告.beta.sgmodule",
+    "京东比价.beta.sgmodule",
+    "什么值得买去广告.beta.sgmodule",
+    "优酷视频去广告.beta.sgmodule",
+    "健康160去广告.beta.sgmodule",
+    "全民K歌去广告.beta.sgmodule",
+    "最右去广告.beta.sgmodule",
+    "前程无忧去广告.beta.sgmodule",
+    "剑网三无界去广告.beta.sgmodule",
+    "可莉广告过滤器.beta.sgmodule",
+    "向日葵去广告.beta.sgmodule",
+    "启信宝去广告.beta.sgmodule",
+    "哔哩哔哩去广告.beta.sgmodule",
+    "哔哩哔哩漫画去广告.beta.sgmodule",
+    "喜马拉雅去广告.beta.sgmodule",
+    "堆糖去广告.beta.sgmodule",
+    "夸克去广告.beta.sgmodule",
+    "宝宝树孕育去广告.beta.sgmodule",
+    "小喵看书去广告.beta.sgmodule",
+    "小红书去广告.beta.sgmodule",
+    "小蚕霸王餐去广告.beta.sgmodule",
+    "小象超市去广告.beta.sgmodule",
+    "小黑盒去广告.beta.sgmodule",
+    "广告平台拦截器.beta.sgmodule",
+    "彩云天气去广告.beta.sgmodule",
+    "微信公众号去广告.beta.sgmodule",
+    "微信外部链接解锁.beta.sgmodule",
+    "微信小程序去广告.beta.sgmodule",
+    "微博去广告.beta.sgmodule",
+    "微博国际版去广告.beta.sgmodule",
+    "快对去广告.beta.sgmodule",
+    "快影去广告.beta.sgmodule",
+    "快捷搜索.beta.sgmodule",
+    "快看漫画去广告.beta.sgmodule",
+    "快递100去广告.beta.sgmodule",
+    "成分喵去广告.beta.sgmodule",
+    "拦截HTTPDNS.beta.sgmodule",
+    "拼多多去广告.beta.sgmodule",
+    "推栏去广告.beta.sgmodule",
+    "收银通商户端去广告.beta.sgmodule",
+    "斗鱼去广告.beta.sgmodule",
+    "智联招聘去广告.beta.sgmodule",
+    "有道翻译官去广告.beta.sgmodule",
+    "朴朴超市去广告.beta.sgmodule",
+    "比特球云盘去广告.beta.sgmodule",
+    "汽水音乐去广告.beta.sgmodule",
+    "汽车之家去广告.beta.sgmodule",
+    "淘宝去广告.beta.sgmodule",
+    "滴滴出行去广告.beta.sgmodule",
+    "漫客栈去广告.beta.sgmodule",
+    "爱企查去广告.beta.sgmodule",
+    "爱奇艺视频去广告.beta.sgmodule",
+    "猫耳FM去广告.beta.sgmodule",
+    "瑞幸咖啡去广告.beta.sgmodule",
+    "番茄小说去广告.beta.sgmodule",
+    "百度地图去广告.beta.sgmodule",
+    "百度搜索网页去广告.beta.sgmodule",
+    "百度网盘去广告.beta.sgmodule",
+    "百度输入法去广告.beta.sgmodule",
+    "皮皮虾去广告.beta.sgmodule",
+    "盖得排行去广告.beta.sgmodule",
+    "知乎去广告.beta.sgmodule",
+    "知识星球去水印.beta.sgmodule",
+    "磁力宅播放器去广告.beta.sgmodule",
+    "稿定设计去广告.beta.sgmodule",
+    "粉笔去广告.beta.sgmodule",
+    "纵横小说去广告.beta.sgmodule",
+    "网易云音乐去广告.beta.sgmodule",
+    "网易大神去广告.beta.sgmodule",
+    "网易新闻去广告.beta.sgmodule",
+    "网易有道词典去广告.beta.sgmodule",
+    "网易邮箱大师去广告.beta.sgmodule",
+    "美图秀秀去广告.beta.sgmodule",
+    "美柚去广告.beta.sgmodule",
+    "美颜相机去广告.beta.sgmodule",
+    "美食杰去广告.beta.sgmodule",
+    "脉脉去广告.beta.sgmodule",
+    "腾讯视频去广告.beta.sgmodule",
+    "自动加入TF.beta.sgmodule",
+    "航旅纵横去广告.beta.sgmodule",
+    "芒果TV去广告.beta.sgmodule",
+    "菜鸟去广告.beta.sgmodule",
+    "萤石云视频去广告.beta.sgmodule",
+    "薄荷健康去广告.beta.sgmodule",
+    "虎扑去广告.beta.sgmodule",
+    "蜻蜓FM去广告.beta.sgmodule",
+    "豆瓣去广告.beta.sgmodule",
+    "财新去广告.beta.sgmodule",
+    "贴吧去广告.beta.sgmodule",
+    "起点读书去广告.beta.sgmodule",
+    "转转去广告.beta.sgmodule",
+    "迅雷去广告.beta.sgmodule",
+    "配音秀去广告.beta.sgmodule",
+    "酷安去广告.beta.sgmodule",
+    "酷我音乐去广告.beta.sgmodule",
+    "酷狗铃声去广告.beta.sgmodule",
+    "酷狗音乐去广告.beta.sgmodule",
+    "闲鱼去广告.beta.sgmodule",
+    "阅友去广告.beta.sgmodule",
+    "阿里云盘去广告.beta.sgmodule",
+    "随手记去广告.beta.sgmodule",
+    "雪球去广告.beta.sgmodule",
+    "顺丰速运去广告.beta.sgmodule",
+    "风鸟去广告.beta.sgmodule",
+    "飞客去广告.beta.sgmodule",
+    "马蜂窝去广告.beta.sgmodule",
+    "驾校一点通去广告.beta.sgmodule",
+    "驾考宝典去广告.beta.sgmodule",
+    "高德地图去广告.beta.sgmodule",
+    "墨迹天气去广告.beta.sgmodule",
+    "1.1.1.1配置管理.sgmodule",
+    "12306去广告.sgmodule",
+    "123云盘去广告.sgmodule",
+    "360摄像机去广告.sgmodule",
+    "360智慧生活去广告.sgmodule",
+    "555电影去广告.sgmodule",
+    "Fileball网盘挂载.sgmodule",
+    "Google重定向.sgmodule",
+    "IT之家去广告.sgmodule",
+    "Keep去广告.sgmodule",
+    "KOOK去广告.sgmodule",
+    "QQ音乐去广告.sgmodule",
+    "Reddit去广告.sgmodule",
+    "Soul去广告.sgmodule",
+    "Spotify去广告.sgmodule",
+    "Spotify歌词翻译.sgmodule",
+    "TikTok多地区解锁.sgmodule",
+    "TubeMax去广告.sgmodule",
+    "Uki去广告.sgmodule",
+    "VVebo时间线修复.sgmodule",
+    "WPS每日签到.sgmodule",
+    "YouTube翻译.sgmodule",
+    "YY去广告.sgmodule",
+    "一刻相册去广告.sgmodule",
+    "七猫小说去广告.sgmodule",
+    "下厨房去广告.sgmodule",
+    "中华万年历去广告.sgmodule",
+    "中国人保去广告.sgmodule",
+    "中国移动云盘去广告.sgmodule",
+    "丰巢去广告.sgmodule",
+    "乐播投屏去广告.sgmodule",
+    "书旗小说去广告.sgmodule",
+    "书香门第每日签到.sgmodule",
+    "云闪付去广告.sgmodule",
+    "京东去广告.sgmodule",
+    "京东比价.sgmodule",
+    "什么值得买去广告.sgmodule",
+    "优酷视频去广告.sgmodule",
+    "健康160去广告.sgmodule",
+    "全民K歌去广告.sgmodule",
+    "最右去广告.sgmodule",
+    "前程无忧去广告.sgmodule",
+    "剑网三无界去广告.sgmodule",
+    "可莉广告过滤器.sgmodule",
+    "向日葵去广告.sgmodule",
+    "启信宝去广告.sgmodule",
+    "哔哩哔哩去广告.sgmodule",
+    "哔哩哔哩漫画去广告.sgmodule",
+    "喜马拉雅去广告.sgmodule",
+    "堆糖去广告.sgmodule",
+    "夸克去广告.sgmodule",
+    "宝宝树孕育去广告.sgmodule",
+    "小喵看书去广告.sgmodule",
+    "小红书去广告.sgmodule",
+    "小蚕霸王餐去广告.sgmodule",
+    "小象超市去广告.sgmodule",
+    "小黑盒去广告.sgmodule",
+    "广告平台拦截器.sgmodule",
+    "彩云天气去广告.sgmodule",
+    "微信公众号去广告.sgmodule",
+    "微信外部链接解锁.sgmodule",
+    "微信小程序去广告.sgmodule",
+    "微博去广告.sgmodule",
+    "微博国际版去广告.sgmodule",
+    "快对去广告.sgmodule",
+    "快影去广告.sgmodule",
+    "快捷搜索.sgmodule",
+    "快看漫画去广告.sgmodule",
+    "快递100去广告.sgmodule",
+    "成分喵去广告.sgmodule",
+    "拦截HTTPDNS.sgmodule",
+    "拼多多去广告.sgmodule",
+    "推栏去广告.sgmodule",
+    "收银通商户端去广告.sgmodule",
+    "斗鱼去广告.sgmodule",
+    "智联招聘去广告.sgmodule",
+    "有道翻译官去广告.sgmodule",
+    "朴朴超市去广告.sgmodule",
+    "比特球云盘去广告.sgmodule",
+    "汽水音乐去广告.sgmodule",
+    "汽车之家去广告.sgmodule",
+    "淘宝去广告.sgmodule",
+    "滴滴出行去广告.sgmodule",
+    "漫客栈去广告.sgmodule",
+    "爱企查去广告.sgmodule",
+    "爱奇艺视频去广告.sgmodule",
+    "猫耳FM去广告.sgmodule",
+    "瑞幸咖啡去广告.sgmodule",
+    "番茄小说去广告.sgmodule",
+    "百度地图去广告.sgmodule",
+    "百度搜索网页去广告.sgmodule",
+    "百度网盘去广告.sgmodule",
+    "百度输入法去广告.sgmodule",
+    "皮皮虾去广告.sgmodule",
+    "盖得排行去广告.sgmodule",
+    "知乎去广告.sgmodule",
+    "知识星球去水印.sgmodule",
+    "磁力宅播放器去广告.sgmodule",
+    "稿定设计去广告.sgmodule",
+    "粉笔去广告.sgmodule",
+    "纵横小说去广告.sgmodule",
+    "网易云音乐去广告.sgmodule",
+    "网易大神去广告.sgmodule",
+    "网易新闻去广告.sgmodule",
+    "网易有道词典去广告.sgmodule",
+    "网易邮箱大师去广告.sgmodule",
+    "美图秀秀去广告.sgmodule",
+    "美柚去广告.sgmodule",
+    "美颜相机去广告.sgmodule",
+    "美食杰去广告.sgmodule",
+    "脉脉去广告.sgmodule",
+    "腾讯视频去广告.sgmodule",
+    "自动加入TF.sgmodule",
+    "航旅纵横去广告.sgmodule",
+    "芒果TV去广告.sgmodule",
+    "菜鸟去广告.sgmodule",
+    "萤石云视频去广告.sgmodule",
+    "薄荷健康去广告.sgmodule",
+    "虎扑去广告.sgmodule",
+    "蜻蜓FM去广告.sgmodule",
+    "豆瓣去广告.sgmodule",
+    "财新去广告.sgmodule",
+    "贴吧去广告.sgmodule",
+    "起点读书去广告.sgmodule",
+    "转转去广告.sgmodule",
+    "迅雷去广告.sgmodule",
+    "配音秀去广告.sgmodule",
+    "酷安去广告.sgmodule",
+    "酷我音乐去广告.sgmodule",
+    "酷狗铃声去广告.sgmodule",
+    "酷狗音乐去广告.sgmodule",
+    "闲鱼去广告.sgmodule",
+    "阅友去广告.sgmodule",
+    "阿里云盘去广告.sgmodule",
+    "随手记去广告.sgmodule",
+    "雪球去广告.sgmodule",
+    "顺丰速运去广告.sgmodule",
+    "风鸟去广告.sgmodule",
+    "飞客去广告.sgmodule",
+    "马蜂窝去广告.sgmodule",
+    "驾校一点通去广告.sgmodule",
+    "驾考宝典去广告.sgmodule",
+    "高德地图去广告.sgmodule",
+    "墨迹天气去广告.sgmodule"    
+  ],
+  "⭐️ BoxJs.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E2%AD%90%EF%B8%8F%20BoxJs.official.sgmodule"
+  },
+  "⭐️ Script Hub.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E2%AD%90%EF%B8%8F%20Script%20Hub.official.sgmodule"
+  },
+  "⭐️ Sub-Store.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E2%AD%90%EF%B8%8F%20Sub-Store.official.sgmodule"
+  },
+  "🍟 Apple News 解锁.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20Apple%20News%20%E8%A7%A3%E9%94%81.official.sgmodule"
+  },
+  "🍟 Apple TestFlight.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20Apple%20TestFlight.official.sgmodule"
+  },
+  "🍟 Apple TV 增强.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20Apple%20TV%20%E5%A2%9E%E5%BC%BA.official.sgmodule"
+  },
+  "🍟 Apple 地图优化.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20Apple%20%E5%9C%B0%E5%9B%BE%E4%BC%98%E5%8C%96.official.sgmodule"
+  },
+  "🍟 Apple 天气增强.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20Apple%20%E5%A4%A9%E6%B0%94%E5%A2%9E%E5%BC%BA.official.sgmodule"
+  },
+  "🍟 Apple 定位修改.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20Apple%20%E5%AE%9A%E4%BD%8D%E4%BF%AE%E6%94%B9.official.sgmodule"
+  },
+  "🍟 BiliADBlock.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20BiliADBlock.official.sgmodule"
+  },
+  "🍟 BiliEnhanced.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20BiliEnhanced.official.sgmodule"
+  },
+  "🍟 BiliGlobal.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20BiliGlobal.official.sgmodule"
+  },
+  "🍟 BiliRedirect.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20BiliRedirect.official.sgmodule"
+  },
+  "🍟 DNS 分流.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20DNS%20%E5%88%86%E6%B5%81.official.sgmodule"
+  },
+  "🍟 DualSubsNetflix.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20DualSubsNetflix.official.sgmodule"
+  },
+  "🍟 DualSubsSpotify.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20DualSubsSpotify.official.sgmodule"
+  },
+  "🍟 DualSubsUniversal.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20DualSubsUniversal.official.sgmodule"
+  },
+  "🍟 DualSubsYouTube.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20DualSubsYouTube.official.sgmodule"
+  },
+  "🍟 通用模块.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%F0%9F%8D%9F%20%E9%80%9A%E7%94%A8%E6%A8%A1%E5%9D%97.official.sgmodule"
+  },
+  "1.1.1.1配置管理.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/1.1.1.1%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86.official.sgmodule"
+  },
+  "Bilibili Helper.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/Bilibili%20Helper.official.sgmodule"
+  },
+  "FlushDNS.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/FlushDNS.official.sgmodule"
+  },
+  "Follow每日签到.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/Follow%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.sgmodule"
+  },
+  "GPT 可用检测-无 WARP.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/GPT%20%E5%8F%AF%E7%94%A8%E6%A3%80%E6%B5%8B-%E6%97%A0%20WARP.official.sgmodule"
+  },
+  "GPT 可用检测.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/GPT%20%E5%8F%AF%E7%94%A8%E6%A3%80%E6%B5%8B.official.sgmodule"
+  },
+  "Keep 去广告.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/Keep%20%E5%8E%BB%E5%B9%BF%E5%91%8A.official.sgmodule"
+  },
+  "Reddit 去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/Reddit%20%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "Spotify Plus.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/Spotify%20Plus.official.sgmodule"
+  },
+  "Surge 启动时长.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/Surge%20%E5%90%AF%E5%8A%A8%E6%97%B6%E9%95%BF.official.sgmodule"
+  },
+  "VPS 流量信息.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/VPS%20%E6%B5%81%E9%87%8F%E4%BF%A1%E6%81%AF.official.sgmodule"
+  },
+  "Youtube (Music) Enhance.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/Youtube%20(Music)%20Enhance.official.sgmodule"
+  },
+  "Youtube 去广告 (不去贴片).official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/Youtube%20%E5%8E%BB%E5%B9%BF%E5%91%8A%20(%E4%B8%8D%E5%8E%BB%E8%B4%B4%E7%89%87).official.sgmodule"
+  },
+  "YouTube去广告[Maasea].official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/YouTube%E5%8E%BB%E5%B9%BF%E5%91%8A%5BMaasea%5D.official.sgmodule"
+  },
+  "中国联通去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "催眠大师去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E5%82%AC%E7%9C%A0%E5%A4%A7%E5%B8%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "哔哩哔哩去广告.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8E%BB%E5%B9%BF%E5%91%8A.official.sgmodule"
+  },
+  "哔哩漫画抢券.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E5%93%94%E5%93%A9%E6%BC%AB%E7%94%BB%E6%8A%A2%E5%88%B8.official.sgmodule"
+  },
+  "哔哩漫画签到.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E5%93%94%E5%93%A9%E6%BC%AB%E7%94%BB%E7%AD%BE%E5%88%B0.official.sgmodule"
+  },
+  "实时油价面板.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E5%AE%9E%E6%97%B6%E6%B2%B9%E4%BB%B7%E9%9D%A2%E6%9D%BF.official.sgmodule"
+  },
+  "将推特用户转换成RSS订阅.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E5%B0%86%E6%8E%A8%E7%89%B9%E7%94%A8%E6%88%B7%E8%BD%AC%E6%8D%A2%E6%88%90RSS%E8%AE%A2%E9%98%85.official.sgmodule"
+  },
+  "小爱音箱去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E5%B0%8F%E7%88%B1%E9%9F%B3%E7%AE%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "巴哈姆特签到.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9%E7%AD%BE%E5%88%B0.official.sgmodule"
+  },
+  "广告联盟.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E5%B9%BF%E5%91%8A%E8%81%94%E7%9B%9F.official.sgmodule"
+  },
+  "微信专项优化.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E5%BE%AE%E4%BF%A1%E4%B8%93%E9%A1%B9%E4%BC%98%E5%8C%96.official.sgmodule"
+  },
+  "微信阅读精简.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E5%BE%AE%E4%BF%A1%E9%98%85%E8%AF%BB%E7%B2%BE%E7%AE%80.official.sgmodule"
+  },
+  "快看漫画签到.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E5%BF%AB%E7%9C%8B%E6%BC%AB%E7%94%BB%E7%AD%BE%E5%88%B0.official.sgmodule"
+  },
+  "拦截HTTPDNS.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E6%8B%A6%E6%88%AAHTTPDNS.official.sgmodule"
+  },
+  "携程旅行签到.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E6%90%BA%E7%A8%8B%E6%97%85%E8%A1%8C%E7%AD%BE%E5%88%B0.official.sgmodule"
+  },
+  "新手友好の去广告集合.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E6%96%B0%E6%89%8B%E5%8F%8B%E5%A5%BD%E3%81%AE%E5%8E%BB%E5%B9%BF%E5%91%8A%E9%9B%86%E5%90%88.official.sgmodule"
+  },
+  "智慧苏州去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E6%99%BA%E6%85%A7%E8%8B%8F%E5%B7%9E%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "机场流量信息面板.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E6%9C%BA%E5%9C%BA%E6%B5%81%E9%87%8F%E4%BF%A1%E6%81%AF%E9%9D%A2%E6%9D%BF.official.sgmodule"
+  },
+  "流媒体解锁检测 Lite.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%E6%A3%80%E6%B5%8B%20Lite.official.sgmodule"
+  },
+  "流媒体解锁检测.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%E6%A3%80%E6%B5%8B.official.sgmodule"
+  },
+  "流量统计.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E6%B5%81%E9%87%8F%E7%BB%9F%E8%AE%A1.official.sgmodule"
+  },
+  "爱奇艺会员签到.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E7%88%B1%E5%A5%87%E8%89%BA%E4%BC%9A%E5%91%98%E7%AD%BE%E5%88%B0.official.sgmodule"
+  },
+  "瑞幸咖啡去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "百度贴吧签到.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E7%AD%BE%E5%88%B0.official.sgmodule"
+  },
+  "粉象生活去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E7%B2%89%E8%B1%A1%E7%94%9F%E6%B4%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "网易云音乐去广告.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.official.sgmodule"
+  },
+  "网络信息 X.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%20X.official.sgmodule"
+  },
+  "网络连通性测试.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E7%BD%91%E7%BB%9C%E8%BF%9E%E9%80%9A%E6%80%A7%E6%B5%8B%E8%AF%95.official.sgmodule"
+  },
+  "联通余量.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E8%81%94%E9%80%9A%E4%BD%99%E9%87%8F.official.sgmodule"
+  },
+  "腾讯新闻去广告.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.official.sgmodule"
+  },
+  "节假日信息.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E8%8A%82%E5%81%87%E6%97%A5%E4%BF%A1%E6%81%AF.official.sgmodule"
+  },
+  "节点测速.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E8%8A%82%E7%82%B9%E6%B5%8B%E9%80%9F.official.sgmodule"
+  },
+  "贴吧去广告.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E8%B4%B4%E5%90%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.official.sgmodule"
+  },
+  "起点中文去广告.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E8%B5%B7%E7%82%B9%E4%B8%AD%E6%96%87%E5%8E%BB%E5%B9%BF%E5%91%8A.official.sgmodule"
+  },
+  "阿里 DNS.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E9%98%BF%E9%87%8C%20DNS.official.sgmodule"
+  },
+  "隐藏状态栏 VPN 图标.official.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Official/%E9%9A%90%E8%97%8F%E7%8A%B6%E6%80%81%E6%A0%8F%20VPN%20%E5%9B%BE%E6%A0%87.official.sgmodule"
+  },
+  "1.1.1.1配置管理.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/1.1.1.1%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86.beta.sgmodule"
+  },
+  "12306去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/12306%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "123云盘去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/123%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "360摄像机去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/360%E6%91%84%E5%83%8F%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "360智慧生活去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/360%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "555电影去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/555%E7%94%B5%E5%BD%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "Fileball网盘挂载.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/Fileball%E7%BD%91%E7%9B%98%E6%8C%82%E8%BD%BD.beta.sgmodule"
+  },
+  "Google重定向.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/Google%E9%87%8D%E5%AE%9A%E5%90%91.beta.sgmodule"
+  },
+  "IT之家去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/IT%E4%B9%8B%E5%AE%B6%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "Keep去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/Keep%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "KOOK去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/KOOK%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "QQ音乐去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/QQ%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "Reddit去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/Reddit%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "Soul去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/Soul%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "Spotify去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/Spotify%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "Spotify歌词翻译.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/Spotify%E6%AD%8C%E8%AF%8D%E7%BF%BB%E8%AF%91.beta.sgmodule"
+  },
+  "TikTok多地区解锁.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/TikTok%E5%A4%9A%E5%9C%B0%E5%8C%BA%E8%A7%A3%E9%94%81.beta.sgmodule"
+  },
+  "TubeMax去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/TubeMax%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "Uki去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/Uki%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "VVebo时间线修复.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/VVebo%E6%97%B6%E9%97%B4%E7%BA%BF%E4%BF%AE%E5%A4%8D.beta.sgmodule"
+  },
+  "WPS每日签到.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/WPS%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.beta.sgmodule"
+  },
+  "YouTube翻译.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/YouTube%E7%BF%BB%E8%AF%91.beta.sgmodule"
+  },
+  "YY去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/YY%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "一刻相册去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%B8%80%E5%88%BB%E7%9B%B8%E5%86%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "七猫小说去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%B8%83%E7%8C%AB%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "下厨房去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%B8%8B%E5%8E%A8%E6%88%BF%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "中华万年历去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%B8%AD%E5%8D%8E%E4%B8%87%E5%B9%B4%E5%8E%86%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "中国人保去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BF%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "中国移动云盘去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "丰巢去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%B8%B0%E5%B7%A2%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "乐播投屏去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%B9%90%E6%92%AD%E6%8A%95%E5%B1%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "书旗小说去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "书香门第每日签到.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%B9%A6%E9%A6%99%E9%97%A8%E7%AC%AC%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.beta.sgmodule"
+  },
+  "云闪付去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%BA%91%E9%97%AA%E4%BB%98%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "京东去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%BA%AC%E4%B8%9C%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "京东比价.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%BA%AC%E4%B8%9C%E6%AF%94%E4%BB%B7.beta.sgmodule"
+  },
+  "什么值得买去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "优酷视频去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "健康160去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%81%A5%E5%BA%B7160%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "全民K歌去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%85%A8%E6%B0%91K%E6%AD%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "最右去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%9C%80%E5%8F%B3%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "前程无忧去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%89%8D%E7%A8%8B%E6%97%A0%E5%BF%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "剑网三无界去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%89%91%E7%BD%91%E4%B8%89%E6%97%A0%E7%95%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "可莉广告过滤器.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%8F%AF%E8%8E%89%E5%B9%BF%E5%91%8A%E8%BF%87%E6%BB%A4%E5%99%A8.beta.sgmodule"
+  },
+  "向日葵去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%90%91%E6%97%A5%E8%91%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "启信宝去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%90%AF%E4%BF%A1%E5%AE%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "哔哩哔哩去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "哔哩哔哩漫画去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%AB%E7%94%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "喜马拉雅去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "堆糖去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%A0%86%E7%B3%96%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "夸克去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%A4%B8%E5%85%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "宝宝树孕育去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%AE%9D%E5%AE%9D%E6%A0%91%E5%AD%95%E8%82%B2%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "小喵看书去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%B0%8F%E5%96%B5%E7%9C%8B%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "小红书去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "小蚕霸王餐去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%B0%8F%E8%9A%95%E9%9C%B8%E7%8E%8B%E9%A4%90%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "小象超市去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%B0%8F%E8%B1%A1%E8%B6%85%E5%B8%82%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "小黑盒去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%B0%8F%E9%BB%91%E7%9B%92%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "广告平台拦截器.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%B9%BF%E5%91%8A%E5%B9%B3%E5%8F%B0%E6%8B%A6%E6%88%AA%E5%99%A8.beta.sgmodule"
+  },
+  "彩云天气去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "微信公众号去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "微信外部链接解锁.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BE%AE%E4%BF%A1%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5%E8%A7%A3%E9%94%81.beta.sgmodule"
+  },
+  "微信小程序去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "微博去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BE%AE%E5%8D%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "微博国际版去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BE%AE%E5%8D%9A%E5%9B%BD%E9%99%85%E7%89%88%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "快对去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BF%AB%E5%AF%B9%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "快影去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BF%AB%E5%BD%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "快捷搜索.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BF%AB%E6%8D%B7%E6%90%9C%E7%B4%A2.beta.sgmodule"
+  },
+  "快看漫画去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BF%AB%E7%9C%8B%E6%BC%AB%E7%94%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "快递100去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%BF%AB%E9%80%92100%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "成分喵去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%88%90%E5%88%86%E5%96%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "拦截HTTPDNS.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%8B%A6%E6%88%AAHTTPDNS.beta.sgmodule"
+  },
+  "拼多多去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "推栏去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%8E%A8%E6%A0%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "收银通商户端去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%94%B6%E9%93%B6%E9%80%9A%E5%95%86%E6%88%B7%E7%AB%AF%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "斗鱼去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%96%97%E9%B1%BC%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "智联招聘去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "有道翻译官去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91%E5%AE%98%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "朴朴超市去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%9C%B4%E6%9C%B4%E8%B6%85%E5%B8%82%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "比特球云盘去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%AF%94%E7%89%B9%E7%90%83%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "汽水音乐去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "汽车之家去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "淘宝去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%B7%98%E5%AE%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "滴滴出行去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "漫客栈去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E6%BC%AB%E5%AE%A2%E6%A0%88%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "爱企查去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%88%B1%E4%BC%81%E6%9F%A5%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "爱奇艺视频去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%88%B1%E5%A5%87%E8%89%BA%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "猫耳FM去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%8C%AB%E8%80%B3FM%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "瑞幸咖啡去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "番茄小说去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "百度地图去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "百度搜索网页去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E7%BD%91%E9%A1%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "百度网盘去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "百度输入法去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%99%BE%E5%BA%A6%E8%BE%93%E5%85%A5%E6%B3%95%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "皮皮虾去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%9A%AE%E7%9A%AE%E8%99%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "盖得排行去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%9B%96%E5%BE%97%E6%8E%92%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "知乎去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%9F%A5%E4%B9%8E%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "知识星球去水印.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E5%8E%BB%E6%B0%B4%E5%8D%B0.beta.sgmodule"
+  },
+  "磁力宅播放器去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%A3%81%E5%8A%9B%E5%AE%85%E6%92%AD%E6%94%BE%E5%99%A8%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "稿定设计去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%A8%BF%E5%AE%9A%E8%AE%BE%E8%AE%A1%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "粉笔去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%B2%89%E7%AC%94%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "纵横小说去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%BA%B5%E6%A8%AA%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "网易云音乐去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "网易大神去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%BD%91%E6%98%93%E5%A4%A7%E7%A5%9E%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "网易新闻去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "网易有道词典去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E8%AF%8D%E5%85%B8%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "网易邮箱大师去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "美图秀秀去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%BE%8E%E5%9B%BE%E7%A7%80%E7%A7%80%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "美柚去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%BE%8E%E6%9F%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "美颜相机去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%BE%8E%E9%A2%9C%E7%9B%B8%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "美食杰去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E7%BE%8E%E9%A3%9F%E6%9D%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "脉脉去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%84%89%E8%84%89%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "腾讯视频去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "自动加入TF.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%87%AA%E5%8A%A8%E5%8A%A0%E5%85%A5TF.beta.sgmodule"
+  },
+  "航旅纵横去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%88%AA%E6%97%85%E7%BA%B5%E6%A8%AA%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "芒果TV去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%8A%92%E6%9E%9CTV%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "菜鸟去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%8F%9C%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "萤石云视频去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%90%A4%E7%9F%B3%E4%BA%91%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "薄荷健康去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%96%84%E8%8D%B7%E5%81%A5%E5%BA%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "虎扑去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%99%8E%E6%89%91%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "蜻蜓FM去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%9C%BB%E8%9C%93FM%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "豆瓣去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%B1%86%E7%93%A3%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "财新去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%B4%A2%E6%96%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "贴吧去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%B4%B4%E5%90%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "起点读书去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%B5%B7%E7%82%B9%E8%AF%BB%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "转转去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%BD%AC%E8%BD%AC%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "迅雷去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E8%BF%85%E9%9B%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "配音秀去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%85%8D%E9%9F%B3%E7%A7%80%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "酷安去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%85%B7%E5%AE%89%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "酷我音乐去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "酷狗铃声去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%85%B7%E7%8B%97%E9%93%83%E5%A3%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "酷狗音乐去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%85%B7%E7%8B%97%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "闲鱼去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%97%B2%E9%B1%BC%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "阅友去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%98%85%E5%8F%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "阿里云盘去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "随手记去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%9A%8F%E6%89%8B%E8%AE%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "雪球去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%9B%AA%E7%90%83%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "顺丰速运去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "风鸟去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%A3%8E%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "飞客去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%A3%9E%E5%AE%A2%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "马蜂窝去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%A9%AC%E8%9C%82%E7%AA%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "驾校一点通去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%A9%BE%E6%A0%A1%E4%B8%80%E7%82%B9%E9%80%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "驾考宝典去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%A9%BE%E8%80%83%E5%AE%9D%E5%85%B8%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "高德地图去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "墨迹天气去广告.beta.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Beta/%E5%A2%A8%E8%BF%B9%E5%A4%A9%E6%B0%94%E5%8E%BB%E5%B9%BF%E5%91%8A.beta.sgmodule"
+  },
+  "1.1.1.1配置管理.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/1.1.1.1%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86.sgmodule"
+  },
+  "12306去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/12306%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "123云盘去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/123%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "360摄像机去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/360%E6%91%84%E5%83%8F%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "360智慧生活去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/360%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "555电影去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/555%E7%94%B5%E5%BD%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "Fileball网盘挂载.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Fileball%E7%BD%91%E7%9B%98%E6%8C%82%E8%BD%BD.sgmodule"
+  },
+  "Google重定向.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Google%E9%87%8D%E5%AE%9A%E5%90%91.sgmodule"
+  },
+  "IT之家去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/IT%E4%B9%8B%E5%AE%B6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "Keep去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Keep%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "KOOK去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/KOOK%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "QQ音乐去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/QQ%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "Reddit去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Reddit%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "Soul去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Soul%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "Spotify去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Spotify%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "Spotify歌词翻译.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Spotify%E6%AD%8C%E8%AF%8D%E7%BF%BB%E8%AF%91.sgmodule"
+  },
+  "TikTok多地区解锁.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/TikTok%E5%A4%9A%E5%9C%B0%E5%8C%BA%E8%A7%A3%E9%94%81.sgmodule"
+  },
+  "TubeMax去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/TubeMax%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "Uki去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/Uki%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "VVebo时间线修复.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/VVebo%E6%97%B6%E9%97%B4%E7%BA%BF%E4%BF%AE%E5%A4%8D.sgmodule"
+  },
+  "WPS每日签到.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/WPS%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.sgmodule"
+  },
+  "YouTube翻译.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/YouTube%E7%BF%BB%E8%AF%91.sgmodule"
+  },
+  "YY去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/YY%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "一刻相册去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%B8%80%E5%88%BB%E7%9B%B8%E5%86%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "七猫小说去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%B8%83%E7%8C%AB%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "下厨房去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%B8%8B%E5%8E%A8%E6%88%BF%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "中华万年历去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%B8%AD%E5%8D%8E%E4%B8%87%E5%B9%B4%E5%8E%86%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "中国人保去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BF%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "中国移动云盘去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "丰巢去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%B8%B0%E5%B7%A2%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "乐播投屏去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%B9%90%E6%92%AD%E6%8A%95%E5%B1%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "书旗小说去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "书香门第每日签到.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%B9%A6%E9%A6%99%E9%97%A8%E7%AC%AC%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.sgmodule"
+  },
+  "云闪付去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%BA%91%E9%97%AA%E4%BB%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "京东去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%BA%AC%E4%B8%9C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "京东比价.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%BA%AC%E4%B8%9C%E6%AF%94%E4%BB%B7.sgmodule"
+  },
+  "什么值得买去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "优酷视频去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "健康160去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%81%A5%E5%BA%B7160%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "全民K歌去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%85%A8%E6%B0%91K%E6%AD%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "最右去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%9C%80%E5%8F%B3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "前程无忧去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%89%8D%E7%A8%8B%E6%97%A0%E5%BF%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "剑网三无界去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%89%91%E7%BD%91%E4%B8%89%E6%97%A0%E7%95%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "可莉广告过滤器.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%8F%AF%E8%8E%89%E5%B9%BF%E5%91%8A%E8%BF%87%E6%BB%A4%E5%99%A8.sgmodule"
+  },
+  "向日葵去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%90%91%E6%97%A5%E8%91%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "启信宝去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%90%AF%E4%BF%A1%E5%AE%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "哔哩哔哩去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "哔哩哔哩漫画去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%AB%E7%94%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "喜马拉雅去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "堆糖去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%A0%86%E7%B3%96%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "夸克去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%A4%B8%E5%85%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "宝宝树孕育去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%AE%9D%E5%AE%9D%E6%A0%91%E5%AD%95%E8%82%B2%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "小喵看书去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%B0%8F%E5%96%B5%E7%9C%8B%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "小红书去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "小蚕霸王餐去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%B0%8F%E8%9A%95%E9%9C%B8%E7%8E%8B%E9%A4%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "小象超市去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%B0%8F%E8%B1%A1%E8%B6%85%E5%B8%82%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "小黑盒去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%B0%8F%E9%BB%91%E7%9B%92%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "广告平台拦截器.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%B9%BF%E5%91%8A%E5%B9%B3%E5%8F%B0%E6%8B%A6%E6%88%AA%E5%99%A8.sgmodule"
+  },
+  "彩云天气去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "微信公众号去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "微信外部链接解锁.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%BE%AE%E4%BF%A1%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5%E8%A7%A3%E9%94%81.sgmodule"
+  },
+  "微信小程序去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "微博去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%BE%AE%E5%8D%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "微博国际版去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%BE%AE%E5%8D%9A%E5%9B%BD%E9%99%85%E7%89%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "快对去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%BF%AB%E5%AF%B9%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "快影去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%BF%AB%E5%BD%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "快捷搜索.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%BF%AB%E6%8D%B7%E6%90%9C%E7%B4%A2.sgmodule"
+  },
+  "快看漫画去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%BF%AB%E7%9C%8B%E6%BC%AB%E7%94%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "快递100去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%BF%AB%E9%80%92100%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "成分喵去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%88%90%E5%88%86%E5%96%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "拦截HTTPDNS.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%8B%A6%E6%88%AAHTTPDNS.sgmodule"
+  },
+  "拼多多去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "推栏去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%8E%A8%E6%A0%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "收银通商户端去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%94%B6%E9%93%B6%E9%80%9A%E5%95%86%E6%88%B7%E7%AB%AF%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "斗鱼去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%96%97%E9%B1%BC%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "智联招聘去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "有道翻译官去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91%E5%AE%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "朴朴超市去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%9C%B4%E6%9C%B4%E8%B6%85%E5%B8%82%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "比特球云盘去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%AF%94%E7%89%B9%E7%90%83%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "汽水音乐去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "汽车之家去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "淘宝去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%B7%98%E5%AE%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "滴滴出行去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "漫客栈去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E6%BC%AB%E5%AE%A2%E6%A0%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "爱企查去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%88%B1%E4%BC%81%E6%9F%A5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "爱奇艺视频去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%88%B1%E5%A5%87%E8%89%BA%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "猫耳FM去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%8C%AB%E8%80%B3FM%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "番茄小说去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "百度地图去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "百度搜索网页去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E7%BD%91%E9%A1%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "百度网盘去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "百度输入法去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%99%BE%E5%BA%A6%E8%BE%93%E5%85%A5%E6%B3%95%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "皮皮虾去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%9A%AE%E7%9A%AE%E8%99%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "盖得排行去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%9B%96%E5%BE%97%E6%8E%92%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "知乎去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%9F%A5%E4%B9%8E%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "知识星球去水印.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E5%8E%BB%E6%B0%B4%E5%8D%B0.sgmodule"
+  },
+  "磁力宅播放器去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%A3%81%E5%8A%9B%E5%AE%85%E6%92%AD%E6%94%BE%E5%99%A8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "稿定设计去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%A8%BF%E5%AE%9A%E8%AE%BE%E8%AE%A1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "粉笔去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%B2%89%E7%AC%94%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "纵横小说去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%BA%B5%E6%A8%AA%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "网易云音乐去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "网易大神去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%BD%91%E6%98%93%E5%A4%A7%E7%A5%9E%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "网易新闻去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "网易有道词典去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E8%AF%8D%E5%85%B8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "网易邮箱大师去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "美图秀秀去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%BE%8E%E5%9B%BE%E7%A7%80%E7%A7%80%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "美柚去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%BE%8E%E6%9F%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "美颜相机去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%BE%8E%E9%A2%9C%E7%9B%B8%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "美食杰去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E7%BE%8E%E9%A3%9F%E6%9D%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "脉脉去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%84%89%E8%84%89%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "腾讯视频去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "自动加入TF.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%87%AA%E5%8A%A8%E5%8A%A0%E5%85%A5TF.sgmodule"
+  },
+  "航旅纵横去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%88%AA%E6%97%85%E7%BA%B5%E6%A8%AA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "芒果TV去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%8A%92%E6%9E%9CTV%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "菜鸟去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%8F%9C%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "萤石云视频去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%90%A4%E7%9F%B3%E4%BA%91%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "薄荷健康去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%96%84%E8%8D%B7%E5%81%A5%E5%BA%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "虎扑去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%99%8E%E6%89%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "蜻蜓FM去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%9C%BB%E8%9C%93FM%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "豆瓣去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%B1%86%E7%93%A3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "财新去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%B4%A2%E6%96%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "贴吧去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%B4%B4%E5%90%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "起点读书去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%B5%B7%E7%82%B9%E8%AF%BB%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "转转去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%BD%AC%E8%BD%AC%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "迅雷去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E8%BF%85%E9%9B%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "配音秀去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%85%8D%E9%9F%B3%E7%A7%80%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "酷安去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%85%B7%E5%AE%89%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "酷我音乐去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "酷狗铃声去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%85%B7%E7%8B%97%E9%93%83%E5%A3%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "酷狗音乐去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%85%B7%E7%8B%97%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "闲鱼去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%97%B2%E9%B1%BC%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "阅友去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%98%85%E5%8F%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "阿里云盘去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "随手记去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%9A%8F%E6%89%8B%E8%AE%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "雪球去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%9B%AA%E7%90%83%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "顺丰速运去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "风鸟去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%A3%8E%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "飞客去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%A3%9E%E5%AE%A2%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "马蜂窝去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%A9%AC%E8%9C%82%E7%AA%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "驾校一点通去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%A9%BE%E6%A0%A1%E4%B8%80%E7%82%B9%E9%80%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "驾考宝典去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%A9%BE%E8%80%83%E5%AE%9D%E5%85%B8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "高德地图去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "墨迹天气去广告.sgmodule": {
+    "type": "Plugin",
+    "prefix": "surge:///install-module?url=",
+    "url": "https://raw.githubusercontent.com/QingRex/LoonKissSurge/refs/heads/main/Surge/%E5%A2%A8%E8%BF%B9%E5%A4%A9%E6%B0%94%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule"
+  },
+  "例子": "BEGIN:VCARD\nVERSION:3.0\nN:名字\nORG:备注\nPHOTO;BASE64:照片\nURL:打开地址\nEND:VCARD\n",
+  "「Surge」插件合集": "BEGIN:VCARD\nVERSION:3.0\nN:使用说明\nORG:初次使用必看🔴需要魔法才能安装，下面的插件点击一次就可以安装\nPHOTO;BASE64:iVBORw0KGgoAAAANSUhEUgAAAGwAAABsCAYAAACPZlfNAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAbKADAAQAAAABAAAAbAAAAAD529oeAAAE30lEQVR4Ae2cyWoVQRSG4zzGAQdQESISRRB0owsXBhF1I4LgTvAFfAh9BVHcZyGC6MaFK3WhWblwQBeCGEWMgvMY5+j5b7qudYvq3O6b6hq6/wPVfWroqlPfuVVdXel0Xx+FBEiABEiABEiABEiABEiABEiABEiABEiABEiABEiABEiABEiABEiABEiABEiABEiABEhgWgRmTOvqdC4eElP3VGjue6n7VIX1t6ue2daoJEGADkvCTf+NrPOUuFe6uSXr6kI5I1QlE1LxO63yM5ruVJ3ttLa4KusXc1ZaTBqTtGdZOvIHLWXKJmGmsrVVtp6u5evssLzOP5GMq1nmVjm7cFheW87Tm34PS+6W0MQRtkx+9huzn/5q50Og4gqb6DBMgwhJStOnxOScRocl5jI6jA5LjEBi5nKE0WGJEUjMXI6wxBzWxOewIi76IYV+ZgX/Ghd02x0xyxuXTy9Kh9n5jUjyTXtW2FROiXb+lY4Se5PFUjnC7Jzwt7MV9qx2KqbMz+2YJ4UOs4PeJckIU8kjyTw3VYEq8jglVkG1wjrr7LBuq7kKsVZXtY8p8YSYr+CdFv1tdd1pvco21GP9o3Ld+RLXBlmY+HBYCQZBi+JFml9BLSjQuI8pUY2uAuawSDcCKY+wudK540YH5xvx2kVTdhhG7lKHHkliJvAxJepMk4CiGxyb7gPgSa3T30TH6grhkgSszIrKISm4OSus7Hb5Nu8fqfurxRisaoct6UGSfE+JC7ReztL0Iuo8KbSoSMEey8CeJZZrsXMfjfieEqPpeKqG+B5hOqcjEsE0BMGr07dbWufhgEQHsqTlnVnOYy+lxutZrevlvNt5Cw4qDOkwTHFK5ijFOMNJa4y0qqLjUjE2dCF59kzmBjzGPiWqxUVARHE1HXKE6SQw9e3TEzK97MLEUkVPSWNyFVaxkO+TpziOsTgMIz2m0f5R7Lkfh4s6rYgJUqdljFkJ0GFWLPEm0mHx+sZqGR1mxRJvoo9Fx1npPpbnCEcl9Eug9EjAh8Neabb91vQYVOwTYnMXm9FvYjComw0+HNbNhpD5L6Tx4ZAGlG3bt8PwbKP+JLJJdNvueNk+NKq8b4epzVVAPiaBDiv5c+MqsSSw0MV9jzC9vw8lom70A6L7+mYG2hyVAMGCIykJ6bBbGqmDovty2HNp64rWdlJqLFNikLdok/JUZmzIEabzeiwR9e7EOtE36JkOdIyqp1k9WMonK9h9iE3wbz77HRs1IvWpL7g5rtpvdbFMiX57nXBrMTrM9m5gwojdmh6jw+5JFx9IwL4jFyOGv2NZdBhm9V3MErC7P2hmGvEbEld/zt8p+g4jv1bRWB2mIE8oxTjjO/EIWDRh1fdaAgQvz6hv764SfTES6ySxOyxvSrwjTsDIMuWuJCBADkvY1tJqdIjxHqbjjfGxQ7fPux77CDOB4HVqLEbwGlojJTWHXRAv4d7VWIl9StQdg3vTFz2hiXpKIwyfCsLKD/JJQhnnYbW4FheKjEv40NISPKTkMDxjIUCuSSjztbXtUh4Bgn9rutzSEjykNCUmiNe9ybGPMP05LE/Po6LKqzPKQc97GM+rh+kkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAIkQAJ1IvAP5i90zLSd70EAAAAASUVORK5CYII=\nURL:https://support.qq.com/products/613951/faqs/148247\nEND:VCARD\nBEGIN:VCARD\nVERSION:3.0\nN:Sub-Store [插件]\nORG:QX、Loon、Surge、Stash、Egern 和 Shadowrocket 的高级订阅管理器！\nPHOTO;BASE64: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\nURL:surge:///install-module?url=https%3A%2F%2Fraw.githubusercontent.com%2FQingRex%2FLoonKissSurge%2Frefs%2Fheads%2Fmain%2FSurge%2FOfficial%2F%25E2%25AD%2590%25EF%25B8%258F%2520Sub-Store.official.sgmodule\nEND:VCARD",
+  "更新 & 支持": "BEGIN:VCARD\nVERSION:3.0\nN:Surge\nORG:Surge 官网，购买许可证，文档说明\nPHOTO;BASE64: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\nURL:https://www.nssurge.com/\nEND:VCARD\nBEGIN:VCARD\nVERSION:3.0\nN:检测更新\nORG:当前版本:无版本号\nPHOTO;BASE64:iVBORw0KGgoAAAANSUhEUgAAAF0AAABdCAMAAADwr5rxAAABFFBMVEWv6+wUr+gVtu8YovcNS8sw/P8XwvcTpeIWtPsPZNwOhe4QitwRSbgVnO8MqvgQb8YRdOENVtkay/wUkeuf5fMHofRA/P8h3f8Rl+NW/v8QnNsUYcyh//9//P0PlPUMgtImuPsKPr0c8v8kr/oPedAp8P9z1v0Ec+wPf+AbVLwq5/9h0Pw1s/wBvvaW1OYQZb0TWrMJ5/+d8vS28fImitgRWM6Q/v/E/v5Fwv2g3umg2OSSyeCKwd15tdplmtAI2P2w/PxVzvuR5PVszfNIoNpwqNhQhM0XgcdGuPWC1vIRbdcVlNY3a8Br/v80re9VrN0SjM4zx/eP9PZ7weIwbtcnYLiP2v5ewOcsp+A6kdM1e8Z05fJPCmSEAAAES0lEQVRo3u3XeVPaQBjH8d0NJGGXxJAQG+6zHJVbBOSUouCBt7bVvv/30WfBsXUYawjQmc7wHdu/nI8/HzUo2rZt27Zt2/5td2iDNar+9WG12t1drYZ+5x7srekGkcDurtvtTrp3dwOR+YeIVPXbdYyOBNyvff6cTCZ34QPsuwe6/nVV+whm8171L1++fKomI4GqSIrD1ez9xmUgwK/yBocGA10khKw4/PKNDjjYkC5CGOOzVfBGJAL63IZ7f37RdR2GQxJuOb9KuNFoRMBOfhJl1VQUS5GJOBs+x2E88TvGochucqBGKc2ld+alLTy7iYiBx1gdOcaPjgLJohplMcYmkwnQ5cqkXCnHMLCA8/+C2JkeDjfD7oFqWBc3NxcsNolNno5Pev1er99/jBEelgi+CDoafxRuNpJFgwWDoDN2c3zfRq+dFOE2fLtkKseO7tKMVFVFCkpBiF0foj/LFDlNJMVg9UMn0wE3FQkCHOy3iYRPV1j9qevoS9psVE0L4xl/j6CF6SY77raRo5rhqmphietXi5+6jk3jqeeQ5tPdRUXi0/EPtNCZWb/uIOc1L4sC4BDgCx2W0ErBXWA4/4FB628/wL8leCW0/moDPH9GfUcb6GeR8ESCNtEt3IXAk3Aj02s6AVsXJbSJ+GFErIs/0CYaYgLp+jHaRLcEY36ZzegiIVgkItmI7heJxF87pbqt9/46y29bh8MEJVGXbL0wXFEajZoqfejZ1SUCb6JVt/McMLKU5oyoJzS2rUsEg85GNt6Z5nI5Q6EHjyfIXrPHoyQq7BR92CjLcUXL57t2dUmCN1FQrvwfnz1LDciTf7Srn1oS+KKMUyMbhzEUxqgrny/Z1L9bQXitJnJKLnw4hBqMCoLH650im51Z7MKysByPq6OPplPDkmXqqnjHyG4XMWZZiizHZdn/wXRFkOOCz+vN92zr1zGLMUZ0GB//6ycZFeRUStBcoCPbnbEY6Jasy7I5/MtdUkIqHk9RwOEw9quDHmMEdMXcQ+/Viheu4vGoLwF6Zwn9nsViaWbKkKq+xw9PW6eFwgxPTNEy1dOcJ1w331mfGQ6HrTj1ubzLTYdKaUgzuC4I0YJ/8eaZvcxeC27u8la8iTFaruuddHpHM7muqubCdb5lMpm926gGONzFi5atvgOlVVmF8YJqpjL+P4Z/O4PhQtbn4noi4eBX1gnooZwsC/NMoTXyv9j8JlFuz/UTtHylnfJvPgX/oqaQKvAEhWY9czvhSjjCgX+e8ep8vcJ9SrOQ5vH4AD8AG3zAHXX4XC6XQ5ogyzNdMagGebgd8h0cuHjwfHFcH/72DYWoCjrghjHHoRDgnJ+W0Ap1nyuVfEijgENUOz8Hfn4YjvfRivWmc59GDcA95zP7AHiw22j1uuNH8D1aVgNdA98HuR7AXlPd/ng6DYVebv7wMD7poPXWbnc6pVL3vtM+RNu2bdu2bdv/2i9YAYphs6xU1AAAAABJRU5ErkJggg==\nURL:\nEND:VCARDBEGIN:VCARD\nVERSION:3.0\nN:使用说明\nORG:初次使用必看：自己摸索吧！！！\nPHOTO;BASE64:iVBORw0KGgoAAAANSUhEUgAAAF0AAABdCAMAAADwr5rxAAABX1BMVEXE5vAbt/EewfMmx/Yxz/g2ZfRa5/8tfPIerPEjmvFJ3/8zcfJp7P891vwohe8jjO08WPV48f8ekueE9/8io/Amfeo7T/Pc4uY8RPKo//+X/f+N+v////r88O80Ne3k4+gxWu0YgdsobOjQ/v/v8vL95uoYnOLf/v88POQbh8rY8vbt6+8To+bP7/YcdOQUWeQbi94cl9kGdNLE//+y//+f//+6/v8z1f7++Pj5+vEuRemmx+eVpOUsSNny+vqc0e201eyyzOsnYOnv4uinvuiAm90BU8C14fIukvHA3vAtUel2iuSPuuNUVN8Kj95GddYoYbwLRIQ73/+t8v3F9Psf0PhfaeBurN27yNwhYtJKgb0cd7YCSK6A3/1x2vSH1fN0zvA7vfDP3e5WsuhYlegRS93Sz9qf4vlezfR6wemWqdFYn9EJZ8AFV5mR6v07X95nf55KZ54AI5MsXY4AFFkbRlnMAAAERUlEQVRo3u3UWVfaUBDA8ZBaDYLQhsVaE1lEtGKlohUERaBiVRTEXYvWfana/fufztw7aZrTPnBBT1/y98G3H3OGO0h2dnZ2dnZ2/6XXLOkRGh0dHJycnuqDpqa3Xj8oPUzy25cv+/t9Pl//261HsAl/7na7fZuPZD8HvbOz092+Pzw8iDbRaCPO9O7u522+Ehh8iuh+kzb0jc6r9rYybdmIaXN9o+ewHXwKbOvUSBPe3ZNOpw9bX0sf2v+mmQ58R4v88GSf1e40aIzhPR0dT55ctYhz2s0i1oSxDtDlJ+9bWPpk32+bT7zRzf6lt9Omjbp8La4P9vmIJtu9OZjPZDKxrc892yQjDrrjYws42fQlbmUy+hCm6/kj2bABB/1EdDfTiHMZ2z7MoPyONZS5llFGG3GH41gM3+onmr7D7SN96F0ilo+FsKHEicxowhXB4TcZzmkIdV3TQ5eX+VgvpN84jMERVxSxzfuYbb48+Vob+vTtR73+NTSKem6MbNLPBEe3vmr56PJbvX5/X//5NQ96LFd1oG3gfv+8gP7ZQmMnd40PWP3HaAj1iIKwbODOGwHdzW3zVXfIE69Y9wd50GdWU2N8boY7nU6B1bzvJtnAIWWC+Y1VDfd+m4qz4Q1cXWr+1Vz1pC00JscnwF+81XD0vVQ1PqZwG3Gv19P84j/+aRMvK8Df3Wo6bD12kFLVuF8xcW+gef3YMjXpjrF4ahfefG9s5uDujaqqTj9EuCew2vzssgWmXxMlcob4TOJgMYI6uGjjWjwBAf3YKqMt4+wM710HHHTkCRfU4VSsNOrVeS0UiiEeYbhXZTgfPZprWp+HO4EIJtwRX9ZDoZmDBuJMpzwBwKPF5nV8yxYai5/qoUTveioSIZlwptcKzV8T6hjZLKV6qs1oMdBVrlJdXYCXKlLznbE7Z6z5c1Ldvdzb26uh7jFpyBV9WioL6DdjiuGav7LOVOP798b+eCBg0mi7XE9L4ZyAPh8nnmR+lW8W19cXF0nvMgL8aenLsiTQBPCKwmHCFaeai+VPz5MBi414eKUiibRbRd6k8U9d1jK6pp2Pe0wa8TDoOSG9ANfo9Bs5MfVc0xOJhFZMWmyYPLyyI4m1G8FLp/x/6y6y2eTZBUG9gDeDPrW05B0/1XTYTCXpMuZG/NmzYBZGFx6eXw2Tl/B6xqN7cE3liyjNzUJ8pCgJV2NPz8tjzyR5Uat9uShxm/BgMJitSOIV8G4ClquMJi+SYUSJhoIvBnAv4q3uj6NvPu0uPrOLydwGfGRZaqnyfjSKvKFDps0HBxzeS8s85DJD2bTbwbFPc8lSFOblMNG0E7QH1opSG+Vq4IfDeDQYyoaNg1f4ztsZf24lDHHWpHHwBantiuW5uexK0IzTI2uz0oNUKK/BB2SzoHIZ7B2wH6yF8s7ayMAIujB1ZbYgPXDLxYVZbKEg2dnZ2dnZ2f2HfgFtBtFZyAiiNQAAAABJRU5ErkJggg==\nURL:\nEND:VCARD\n\nBEGIN:VCARD\nVERSION:3.0\nN:反馈建议\nORG:想要更多功能？不会给你机会，自己写吧！！！\nPHOTO;BASE64:iVBORw0KGgoAAAANSUhEUgAAAF0AAABdCAMAAADwr5rxAAABF1BMVEXOx/BVNvFeN8hWM+hSMrxkNNtSLt5LKr9fM9RZL8/c6OxZNsFTLcb///5eNebTy/NPMLVdMeBML69PO/tHLac/EsQjBIGQlK7s//Y5JeGDhLotB7R1WN3y///09vbj6Ozq5P2Thtrk4fudh96cjdZRLM1IMfVHMOm+nvy3l/mmiPDo7O9wR9daLdXq//03JfKHV+ZGKbhFN/1LL+5lPs/BueszINpMM9iRhNW4sOo6J+qXeumCU+NIHMFBLJ1ALpE2LP6ciOaspOF7Tt6BddSvkPWdgeuiteFNQeBNFdGaqtBTQsYlF/XIvvGnoeybj+ixsd9qWNQvD5uIgfKkl+ni//I3J8deWbKMoLA3Fao0IotWT+vCytrmeTUOAAACv0lEQVRo3u3U23bSQBSA4UASMtAES9soUatWgXgoIlBsS6UHRFEoLSD2pO//HN2zSUNSCJnJCnfzTYbFBfyzgUUkQRAEQRAk6Qkvrvb7mQ8zP6iPMz+pIzQZMMcHR19c36a+o13X3lTSsab3h4z1xm5ygTWHgtbBBth6cHfCWG9rCnZ8OX8UbXkcn9wx1gva/NAo8BTMs9YVX5xubLvfCt1oGsdH9rqO2fkDIO+dHznjR61jfvEB6w9oP3rdPWHaX3RAxLr/BOA7AGH9mL+e9tEf0YDi4KsT2Htp1YegtFexBaPDUqrM9XSSpkmydfZm3lu/AuSp6hZzHQanlzkwQv2/1XXe+lRraHyaeT0nk8nke2MdMdffQR1mh3o3nwnxtzeuYl3jqKOk2TW2F/rs2u6OqwrWN3hnL17fPAtxc31b1XjrKKm2noYaV2k9nWavl1VC4IKthYM4revr7HUH0TUGEI9WNwO1dFcR/7QKR53gpb4MMipic4q7jn5fGIEuzKh1FRBabxivAhhD03dPI3x1nL2dx//7AvmeqRJSJq4I9W4++A5g4k9D8IhytLqRD7DdM8tqbnbfV8s6ax3elVVBrv88UN8s57xS7PWsI/UikLmfcroq7lSRsX6GdRXzy+Q8OOpyFoXVs17x13MygMcc7NQ+f10OkYWFeOoJl8zKZq1f2gkZVhaWnFhG9jxjr9fd90J/6XKfsNcndf+AS8m8sx/apQSvUnMkMepcfUWWZTVt7wep1+vNpm3NgZf2GxKrYeEA7XT6lk2zm068aY06nZ3HDnYKbSmKxlUlsYng00P8QIrVqELLNF8qVfbbUrw6FWwnaNyCeOx1BPFfh1LcLs/deEOK3QXWa+xx/nqthvH4XZ7S+inG4/enRuO284PGX19VHOunEG9LK3LYPP+3oskxPxlIgiAIgiCwuAeOqa1zrJ8sdgAAAABJRU5ErkJggg==\nURL:mailto:someone@example.com?subject=问题反馈&body=\nEND:VCARD\nBEGIN:VCARD\nVERSION:3.0\nN:打赏\nORG:打赏就算了吧!不差这点！！！\nPHOTO;BASE64:iVBORw0KGgoAAAANSUhEUgAAAF0AAABdCAMAAADwr5rxAAABPlBMVEX75cvSZRz2w0/FWBn/z1r1wlf91mi7Thf3ymD/23SzSRj/34X/vkSpRBfvd1jcdyTnfCL/5p/hcB3969L/x1P/6Kn/5pP/x0j1vUbfgCnmiDTMWBj/8L/BRxT74cPsqkL9uDjdYxbUWBTmmzz5rzjYcCCjPRTzj2/4ylP2tEP2oSz/3pbrhibmwKPxo1z2pzTfjTP+5nrwqW/OiGXtt1DkX0Hzmi2sKwz60bPsyqz2xar+2JfkuJT/0nnpf2D40V/wf13+v1LVRjLvjSzwlCrJTxOwPxLTQwf+9NT/7rLdro7/04v/zG/whmPqlFTqbEvKb0TgeTbQXzHGPhC5MQ3x1Ln726T4vZv1nj3RSBjx2cz+47btuqP2x473p4fxsYHjoIH7wW28eFe2a0jiUkD4s4/fbVHaX0j24uCqWTUwWi3VAAAEBElEQVRo3uzVz2vCMBTA8RKaR0IhQ0RREHPIIe1lRKkgbtjSkyKlzMM8TNSBP/7//2AvVsGdfTut37Y0pw/hHZKgqampqampqek/1w7+sOnmtDttpsOAvvbMqglW2d2UWB4sl63VvjpOqmoyUXZDaS+7kRQw6nZXO2utQn5Ghg8imRrXd87w0WisSltWylLNfimF6xudpto4k3m+VGq+I9q5FC9OSAkAkhsjoFR5jjzN5qXoGwmiLtMaeKW8TjL5FhgHd5xzptPw45ijvyXZOncMrjJjHJ9Eh6ZQeTmn0L9Am0wIhsXM10tYUhxzSzKZz1DrzNN3HPXeulB2HlDosU5ir+JbP7hCfX6g0N/iJEG85ut/nBbH83lIsnfv3eLXtch0cbnQnARDP2/8+C3GwswV50NA03ccMm/fdQC2vmzJLoxeBuIBl0KjTdYYRbjrMgJNe3W8xiDrg0ZGEaTvT1DtxQKvoUH7F88BXZ8U6f4Ze9DpRiOsEzz0017dtqYNhWEcNzNLpjnFJIsJmkaMSwsmakBHnFNfBJ9ARWarrTqkTwza7/8Fdh1j6MoYpJhXI38UwRe/c+cGPb8WHz7R+T9+bX4/xcYNx6EMXm/822aj0WjenWZnWFbTNBZxHAs/rmBLGVYjZUSIpiksyvyMCadza2XL9jzPdi2cEPhCKQ48T23Xq4m02tBzrdC/OV3Pc1rZHtZk5pAs4wDbLZN41lNiiTUUqR0mi+LAswj5x3pK9Hk/R9S7xMbcevoQg7d+OGBgB77Gdv9YIu5xbY7HFbh+tKfq26IJ+xD95Hk+zTCmLA6xHp/MS91ZaJ8LCpl3JYFVNJ/436LoD2JFB4mOPj8ej3kdfs22yv7u+Xm2P9oamTuSKgiOM/PdzZcoesMEHhQuh2+320aaMcWhvd+tdzfV0sFW+o4kqVIeBzjdjSxH0ReTEc9naYHPIN0IfLnW63R2e3F/zinzGWwpn1czHMsq88XkPtLsEwN6UMgjY9Vu87q5mPamRbPKYWxVhS1Q269uBoVWtAsCOuAzGvyQx/yr1eo6fbU0JwtVcgSB2nRsYnk12WymInU3MQL7Ep1hfPBH/5o2qTQktd938lLm1a5cpaJ1u4V+tF9wCPwDf0H90XZbWXQF2CpoatvUTt9HvpmhU/ylVV+X1tNH+K/jo6tlsfHwoCAf9kCE3VqnIrddjS8vn6bhL77+dDYOxr9AuVxuuVwWB5sqIZYb2J3UO+qtso+9N1/AP/LAC4UibeO6+DeqpH/UU++r89eD1h+zY0MHH+poQO0W7NPDfrD9Iw+/UIA9wtxxhfl5PeRzMkPtOOu0skYw/gXm7qVQzD4/qjAM7GncdOgbBuykpKSkpKSk/6rfMoCfbP+eOd4AAAAASUVORK5CYII=\nURL:tg://join?invite=https://t.me/SurgeCommunity\nEND:VCARD\nBEGIN:VCARD\nVERSION:3.0\nN:Author\nORG:\nPHOTO;BASE64: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\nURL:\nEND:VCARD"
+}
